@@ -8,4 +8,6 @@ By Octavio G.
 Quisiera comenzar a leer alguna biografia. EN un rato voy a averiguar.
 A, y tambien le quiero hablar a Exe para preguntarle acerca de los modulos de Terraform.
 
+# Segunda edicion
+ME gustaria que ya me empiecen a dar alguna tarea, asi no me siento tan inutil ajajajja
 
