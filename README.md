@@ -11,3 +11,4 @@ A, y tambien le quiero hablar a Exe para preguntarle acerca de los modulos de Te
 # Segunda edicion
 Me gustaria que ya me empiecen a dar alguna tarea, asi no me siento tan inutil ajajajja
 
+# le muestro a flor
