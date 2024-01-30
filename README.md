@@ -15,4 +15,4 @@ Me gustaria que ya me empiecen a dar alguna tarea, asi no me siento tan inutil a
 
 Hola que tal, hola
 
-# el siguiente paso es hacer 2 brunchs y luego un #merge
+# el siguiente paso es hacer 2 branchs y luego un #merge
