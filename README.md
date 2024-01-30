@@ -17,4 +17,4 @@ Hola que tal, hola
 
 # el siguiente paso es hacer 2 branchs y luego un #merge
 
-necsito una cafetera para mi casa
+necesito una cafetera para mi casa
